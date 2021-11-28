@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SerendipitousDeath AKA armordcrab AKA IroncladCrustation
+- 👀 I’m interested in Computers, Informations Systems, A.I., Neuroscience, Infosec
+- 🌱 I’m currently learning Japanese, Biophysics/Biochemistry, Python, C++, Web Developement
+- 💞️ I’m looking to collaborate on A.I. or any open source projects and beginner projects to get back in the flow
+- 📫 How to reach me illuminatus.alumni@gmail.com
